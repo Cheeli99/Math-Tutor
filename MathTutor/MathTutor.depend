@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1544481027 source:c:\users\emcca\desktop\college\fall2018\programming\workspace\mathtutor\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<vector>
+	<cmath>
+	<stdexcept>
+	"mathTutor.h"
+
+1544380512 c:\users\emcca\desktop\college\fall2018\programming\workspace\mathtutor\mathtutor.h
+	<vector>
+
+1544491569 source:c:\users\emcca\desktop\college\fall2018\programming\workspace\mathtutor\mathtutor.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<cmath>
+	<ios>
+	<iomanip>
+	<fstream>
+
+1544481027 source:c:\users\evan\desktop\programming\c++\mathtutor\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<vector>
+	<cmath>
+	<stdexcept>
+	"mathTutor.h"
+
+1544380512 c:\users\evan\desktop\programming\c++\mathtutor\mathtutor.h
+	<vector>
+
+1544491569 source:c:\users\evan\desktop\programming\c++\mathtutor\mathtutor.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<cmath>
+	<ios>
+	<iomanip>
+	<fstream>
+
