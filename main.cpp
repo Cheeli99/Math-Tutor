@@ -24,6 +24,7 @@ got wrong and correct. The vector will also display a score at the end of the se
 #include <cmath>
 #include <stdexcept>
 #include "mathTutor.h"
+#include "mathTutor.cpp"
 
 using namespace std;
 
